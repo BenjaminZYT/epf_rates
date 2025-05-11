@@ -1,0 +1,21 @@
+# Core packages
+voila
+pandas
+matplotlib
+numpy
+re  # built-in, not needed in requirements
+yfinance
+plotly
+seaborn
+joblib
+warnings  # built-in, not needed in requirements
+
+# scikit-learn
+scikit-learn
+
+# statsmodels for time series
+statsmodels
+
+# Optional: suppress some compatibility issues in notebooks
+ipykernel
+ipywidgets
