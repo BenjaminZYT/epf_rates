@@ -3,8 +3,6 @@ voila
 pandas
 matplotlib
 numpy
-re  # built-in, not needed in requirements
-yfinance
 plotly
 seaborn
 joblib
