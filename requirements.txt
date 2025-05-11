@@ -6,7 +6,6 @@ numpy
 plotly
 seaborn
 joblib
-warnings  # built-in, not needed in requirements
 
 # scikit-learn
 scikit-learn
